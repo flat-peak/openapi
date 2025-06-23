@@ -2,9 +2,6 @@
 
 This repository contains [OpenAPI specifications][openapi] for FlatPeak API.
 
-[Changelog](https://github.com/flatpeak/openapi/releases/)
-
-
 Files can be found in the `openapi/` directory:
 
 * `flatpeak-api-spec.json:` OpenAPI 3.0 spec matching the public FlatPeak API.
