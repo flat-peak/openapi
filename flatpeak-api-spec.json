@@ -7,7 +7,7 @@
     "description": "FlatPeak API - WARNING Undocumented endpoints are subject to breaking changes without notice and should not be used in production environments.",
     "version": "2024-08-24",
     "title": "FlatPeak API",
-    "termsOfService": "https://flatpeak.com/commercials/terms",
+    "termsOfService": "https://docs.flatpeak.com/legal/terms",
     "contact": {
       "name": "Technical Support",
       "email": "support@flatpeak.com",
@@ -15,7 +15,7 @@
     },
     "license": {
       "name": "Apache 2.0",
-      "url": "https://flatpeak.com/commercials/terms"
+      "url": "https://docs.flatpeak.com/legal/terms"
     }
   },
   "tags": [
