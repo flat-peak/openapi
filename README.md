@@ -1,4 +1,4 @@
-# flatPeak OpenAPI Specification
+# FlatPeak OpenAPI Specification
 
 This repository contains [OpenAPI specifications][openapi] for FlatPeak API.
 
